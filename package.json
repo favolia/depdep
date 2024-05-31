@@ -1,0 +1,24 @@
+{
+  "name": "@defavolia/depdep",
+  "version": "1.0.0",
+  "description": "depdep package",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favolia/depdep.git"
+  },
+  "keywords": [
+    "depdep",
+    "defavolia",
+    "@defavolia/depdep"
+  ],
+  "author": "favolia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favolia/depdep/issues"
+  },
+  "homepage": "https://github.com/favolia/depdep#readme"
+}
